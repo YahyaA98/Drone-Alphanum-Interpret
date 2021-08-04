@@ -31,7 +31,7 @@ These set of requirements are split into 3 distinct areas.
 2. Identify the alphanumeric of the ground marker.
 3. Identify the background colour of the ground marker
 
-This repositry is a part of a larger project where all these aspects are covered and this particular part covers the identification of the alphanumeric (2). So it is assumed that the location of the ground marker has already been obtained via OpenCV filtering and the drone consists of a gimbal controlled camera capable of obtaining a visual feed of the marker to a few degrees of accuracy.
+This repository is a part of a larger project where all these aspects are covered and this particular part covers the identification of the alphanumeric (2). So it is assumed that the location of the ground marker has already been obtained via OpenCV filtering and the drone consists of a gimbal controlled camera capable of obtaining a visual feed of the marker to a few degrees of accuracy.
 
 This specification is met in this repository through the use of a Deep learning model using TensorFlow.
 
