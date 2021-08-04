@@ -21,8 +21,9 @@ A.6
   35 characters including numbers 1-9 and Upper Case (capital) letters.
 ```
 Ground Marker Illustration given from specification:
-
-![Ground Marker Illustration](https://user-images.githubusercontent.com/87501079/128209127-1d0f9567-28b4-4caf-8640-39ed9cdfa50a.png)
+<p align="center">
+  <img width="500" height="500" src="https://user-images.githubusercontent.com/87501079/128209127-1d0f9567-28b4-4caf-8640-39ed9cdfa50a.png">
+</p>
 
 ## Methodology
 These set of requirements are split into 3 distinct areas.
@@ -37,10 +38,11 @@ This specification is met in this repository through the use of a Deep learning 
 A common practice is to obtain the dataset is through the modelling of a virtual environment. This can be cheaply and quickly done using Unity. The environment generates the 35 classes with 300, 250px x 250px images per class with the camera location, camera orientation, lighting conditions, text background colour, fontstyle and vegetation conditions are randomised. 
 
 Examples of dataset generated:
-
-![image](https://user-images.githubusercontent.com/87501079/128212103-af4b61f6-f2d1-47ec-805e-160234b46621.png) 
-![image_7504](https://user-images.githubusercontent.com/87501079/128213104-65f13efd-b639-4d43-935a-717508630c2b.png)
-![image_9917](https://user-images.githubusercontent.com/87501079/128213178-7c09a79c-313c-456c-83a6-7ec7f045236b.png)
+<p align="center">
+  <img width="250" height="250" src="https://user-images.githubusercontent.com/87501079/128212103-af4b61f6-f2d1-47ec-805e-160234b46621.png">
+  <img width="250" height="250" src="https://user-images.githubusercontent.com/87501079/128213104-65f13efd-b639-4d43-935a-717508630c2b.png">
+  <img width="250" height="250" src="https://user-images.githubusercontent.com/87501079/128213178-7c09a79c-313c-456c-83a6-7ec7f045236b.png">
+</p>
 
 This resulted in about 2Gb of data generated.
 
