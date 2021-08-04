@@ -34,7 +34,7 @@ This repositry is a part of a larger project where all these aspects are covered
 
 This specification is met in this repository through the use of a Deep learning model using TensorFlow.
 
-A common practice is to obtain the dataset is through the modelling of a virtual environment. This can be cheaply and quickly done using Unity. The environment generates the 35 classes with 300 images per class with the camera location, camera orientation, lighting conditions, text background colour, fontstyle and vegetation conditions are randomised. 
+A common practice is to obtain the dataset is through the modelling of a virtual environment. This can be cheaply and quickly done using Unity. The environment generates the 35 classes with 300, 250px x 250px images per class with the camera location, camera orientation, lighting conditions, text background colour, fontstyle and vegetation conditions are randomised. 
 
 Examples of dataset generated:
 
