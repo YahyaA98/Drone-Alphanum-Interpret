@@ -49,7 +49,7 @@ This resulted in about 2Gb of data generated.
 Next the data is preprocessed, the CNN is built, model is trained and hyperparameters are tuned.
 
 ## Results
-The validation and testing dataset shows that the model built can classify to a categorical accuracy of about 80% which is 30x better than randomly guessing. This is sufficent for a project of this scale however could be improved methods such as but not limited to increasing the model complexity, model tuning or using further data generation techniques.
+The testing dataset shows that the model built can classify to a categorical accuracy of about 85% which is 30x better than randomly guessing. This is sufficent for a project of this scale however could be improved methods such as but not limited to increasing the model complexity, model tuning or using further data generation techniques.
 
 ## Future Work
 - Increase accuracy of classification
