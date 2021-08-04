@@ -21,6 +21,7 @@ A.6
   35 characters including numbers 1-9 and Upper Case (capital) letters.
 ```
 Ground Marker Illustration given from specification:
+
 ![Ground Marker Illustration](https://user-images.githubusercontent.com/87501079/128209127-1d0f9567-28b4-4caf-8640-39ed9cdfa50a.png)
 
 ## Methodology
